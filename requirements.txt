@@ -1,0 +1,4 @@
+streamlit
+gtts
+torchaudio
+git+https://github.com/neonbjb/tortoise-tts.git
