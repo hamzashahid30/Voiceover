@@ -1,4 +1,6 @@
-streamlit
-gtts
-torchaudio
+streamlit>=1.28.0
+gtts>=2.3.2
+torch==2.0.1
+torchaudio==2.0.2
 git+https://github.com/neonbjb/tortoise-tts.git
+transformers>=4.28.0
